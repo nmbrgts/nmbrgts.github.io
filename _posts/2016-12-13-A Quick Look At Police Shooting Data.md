@@ -169,7 +169,7 @@ plt.xlabel("Race")
 
 
 
-![png](Police_Shootings_files/Police_Shootings_5_1.png)
+![png](nmbrgts.github.io/images/Police_Shootings_files/Police_Shootings_5_1.png)
 
 
 Here we can see that the claims made are reproducible. In terms of count, more white people than black people have been shot this year by police. However, this really only scratches the surface. We still don't know whether they were armed or not and we don't know how this compares to the total populations for each of these races.  
@@ -204,7 +204,7 @@ plt.xlabel("Race")
 
 
 
-![png](Police_Shootings_files/Police_Shootings_7_1.png)
+![png](nmbrgts.github.io/images/Police_Shootings_files/Police_Shootings_7_1.png)
 
 
 Here we can see that the story we started with is changing considerably. It is much less surprising that more white people are shot by police when consider that there are five times as many white people as there are black or hispanic people.
@@ -233,7 +233,7 @@ plt.xlabel("Race")
 
 
 
-![png](Police_Shootings_files/Police_Shootings_9_1.png)
+![png](nmbrgts.github.io/images/olice_Shootings_files/Police_Shootings_9_1.png)
 
 
 The good news for everyone is that **the odds of being shot by a police officer are generally statistically low**. So don't be afraid to wave, smile or give a friendly nod to the next police officer you see.  
@@ -283,7 +283,7 @@ plt.xlabel("Race")
 
 
 
-![png](Police_Shootings_files/Police_Shootings_13_1.png)
+![png](nmbrgts.github.io/images/Police_Shootings_files/Police_Shootings_13_1.png)
 
 
 From this graph we can see that the number of unarmed people killed in police shootings are much closer than the number of people killed in shootings in general and favors black people by a small margin. Similar to the first graph that we looked at, the count can't tell us the full story. Remember, the population of white people shot by the police and the general white population greatly outnumbers these two groups. 
@@ -308,7 +308,7 @@ plt.xlabel("Race")
 
 
 
-![png](Police_Shootings_files/Police_Shootings_15_1.png)
+![png](nmbrgts.github.io/images/Police_Shootings_files/Police_Shootings_15_1.png)
 
 
 Again, we see a troubling trend here. **The percentage of unarmed people killed in police shootings is disproportionately higher for black people and hispanic people than it is for white people**, despite these two groups making up less of the total shootings. **In the case of the black population the percentage of unarmed shootings is twice that of the white population.**
@@ -333,7 +333,7 @@ plt.xlabel("Race")
 
 
 
-![png](Police_Shootings_files/Police_Shootings_17_1.png)
+![png](nmbrgts.github.io/images/Police_Shootings_files/Police_Shootings_17_1.png)
 
 
 When we look at the percentage of total demographic populations we can see that the percentage of unarmed black people killed is now closer to three times that of the white population. 
