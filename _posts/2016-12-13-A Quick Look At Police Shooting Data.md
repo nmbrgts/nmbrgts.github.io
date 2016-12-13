@@ -164,10 +164,6 @@ plt.xlabel("Race")
 
 
 
-    <matplotlib.text.Text at 0x7f6c4d4e6e80>
-
-
-
 
 ![png]({{ site.url }}/images/Police_Shootings_files/Police_Shootings_5_1.png)
 
@@ -199,10 +195,6 @@ plt.xlabel("Race")
 
 
 
-    <matplotlib.text.Text at 0x7f6c4a714240>
-
-
-
 
 ![png]({{ site.url }}/images/Police_Shootings_files/Police_Shootings_7_1.png)
 
@@ -225,10 +217,6 @@ plt.ylabel("Percentage of Race Population")
 plt.xlabel("Race")
 ```
 
-
-
-
-    <matplotlib.text.Text at 0x7f6c4a725e80>
 
 
 
@@ -278,10 +266,6 @@ plt.xlabel("Race")
 
 
 
-    <matplotlib.text.Text at 0x7f6c4a647080>
-
-
-
 
 ![png]({{ site.url }}/images/Police_Shootings_files/Police_Shootings_13_1.png)
 
@@ -303,10 +287,6 @@ plt.xlabel("Race")
 
 
 
-    <matplotlib.text.Text at 0x7f6c4a71feb8>
-
-
-
 
 ![png]({{ site.url }}/images/Police_Shootings_files/Police_Shootings_15_1.png)
 
@@ -325,10 +305,6 @@ plt.ylabel("Percentage of Race Population")
 plt.xlabel("Race")
 ```
 
-
-
-
-    <matplotlib.text.Text at 0x7f5f1127cbe0>
 
 
 
