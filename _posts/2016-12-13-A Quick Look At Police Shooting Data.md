@@ -36,27 +36,12 @@ shootings_df.head()
 ```
 
 
-       id                name        date   manner_of_death       armed   age  \
-    0   3          Tim Elliot  2015-01-02              shot         gun  53.0   
-    1   4    Lewis Lee Lembke  2015-01-02              shot         gun  47.0   
-    2   5  John Paul Quintero  2015-01-03  shot and Tasered     unarmed  23.0   
-    3   8     Matthew Hoffman  2015-01-04              shot  toy weapon  32.0   
-    4   9   Michael Rodriguez  2015-01-04              shot    nail gun  39.0   
-    
-      gender race           city state signs_of_mental_illness threat_level  \
-    0      M    A        Shelton    WA                    True       attack   
-    1      M    W          Aloha    OR                   False       attack   
-    2      M    H        Wichita    KS                   False        other   
-    3      M    W  San Francisco    CA                    True       attack   
-    4      M    H          Evans    CO                   False       attack   
-    
-              flee body_camera  
-    0  Not fleeing       False  
-    1  Not fleeing       False  
-    2  Not fleeing       False  
-    3  Not fleeing       False  
-    4  Not fleeing       False  
-
+       id                name        date   manner_of_death       armed   age   gender race           city state signs_of_mental_illness threat_level         flee body_camera  \
+    0   3          Tim Elliot  2015-01-02              shot         gun  53.0        M    A        Shelton    WA                    True       attack  Not fleeing       False   
+    1   4    Lewis Lee Lembke  2015-01-02              shot         gun  47.0        M    W          Aloha    OR                   False       attack  Not fleeing       False   
+    2   5  John Paul Quintero  2015-01-03  shot and Tasered     unarmed  23.0        M    H        Wichita    KS                   False        other  Not fleeing       False   
+    3   8     Matthew Hoffman  2015-01-04              shot  toy weapon  32.0        M    H        Wichita    KS                   False        other  Not fleeing       False    
+    4   9   Michael Rodriguez  2015-01-04              shot    nail gun  39.0        M    H          Evans    CO                   False       attack  Not fleeing       False   
 
 
 
