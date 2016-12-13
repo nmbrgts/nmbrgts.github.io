@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Tyler
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -21,9 +21,9 @@ footer-links:
   email: tylerjnickerson@gmail.com
   facebook:
   flickr:
-  github: githib.com/numbergts
+  github: numbergts
   instagram:
-  linkedin: linkedin.com/in/tyler-nickerson-b0b27120
+  linkedin: tyler-nickerson-b0b27120
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
