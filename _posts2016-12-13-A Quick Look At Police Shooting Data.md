@@ -1,3 +1,7 @@
+---
+layout: post
+title: A Quick Look At Police Shooting Data
+---
 
 ### A Quick Look At Police Shooting Data
 
