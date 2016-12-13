@@ -221,7 +221,7 @@ plt.xlabel("Race")
 
 
 
-![png]({{ site.url }}/images/olice_Shootings_files/Police_Shootings_9_1.png)
+![png]({{ site.url }}/images/Police_Shootings_files/Police_Shootings_9_1.png)
 
 
 The good news for everyone is that **the odds of being shot by a police officer are generally statistically low**. So don't be afraid to wave, smile or give a friendly nod to the next police officer you see.  
