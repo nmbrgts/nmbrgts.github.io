@@ -36,118 +36,28 @@ shootings_df.head()
 ```
 
 
+       id                name        date   manner_of_death       armed   age  \
+    0   3          Tim Elliot  2015-01-02              shot         gun  53.0   
+    1   4    Lewis Lee Lembke  2015-01-02              shot         gun  47.0   
+    2   5  John Paul Quintero  2015-01-03  shot and Tasered     unarmed  23.0   
+    3   8     Matthew Hoffman  2015-01-04              shot  toy weapon  32.0   
+    4   9   Michael Rodriguez  2015-01-04              shot    nail gun  39.0   
+    
+      gender race           city state signs_of_mental_illness threat_level  \
+    0      M    A        Shelton    WA                    True       attack   
+    1      M    W          Aloha    OR                   False       attack   
+    2      M    H        Wichita    KS                   False        other   
+    3      M    W  San Francisco    CA                    True       attack   
+    4      M    H          Evans    CO                   False       attack   
+    
+              flee body_camera  
+    0  Not fleeing       False  
+    1  Not fleeing       False  
+    2  Not fleeing       False  
+    3  Not fleeing       False  
+    4  Not fleeing       False  
 
 
-<div>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>id</th>
-      <th>name</th>
-      <th>date</th>
-      <th>manner_of_death</th>
-      <th>armed</th>
-      <th>age</th>
-      <th>gender</th>
-      <th>race</th>
-      <th>city</th>
-      <th>state</th>
-      <th>signs_of_mental_illness</th>
-      <th>threat_level</th>
-      <th>flee</th>
-      <th>body_camera</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>3</td>
-      <td>Tim Elliot</td>
-      <td>2015-01-02</td>
-      <td>shot</td>
-      <td>gun</td>
-      <td>53.0</td>
-      <td>M</td>
-      <td>A</td>
-      <td>Shelton</td>
-      <td>WA</td>
-      <td>True</td>
-      <td>attack</td>
-      <td>Not fleeing</td>
-      <td>False</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>4</td>
-      <td>Lewis Lee Lembke</td>
-      <td>2015-01-02</td>
-      <td>shot</td>
-      <td>gun</td>
-      <td>47.0</td>
-      <td>M</td>
-      <td>W</td>
-      <td>Aloha</td>
-      <td>OR</td>
-      <td>False</td>
-      <td>attack</td>
-      <td>Not fleeing</td>
-      <td>False</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>5</td>
-      <td>John Paul Quintero</td>
-      <td>2015-01-03</td>
-      <td>shot and Tasered</td>
-      <td>unarmed</td>
-      <td>23.0</td>
-      <td>M</td>
-      <td>H</td>
-      <td>Wichita</td>
-      <td>KS</td>
-      <td>False</td>
-      <td>other</td>
-      <td>Not fleeing</td>
-      <td>False</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>8</td>
-      <td>Matthew Hoffman</td>
-      <td>2015-01-04</td>
-      <td>shot</td>
-      <td>toy weapon</td>
-      <td>32.0</td>
-      <td>M</td>
-      <td>W</td>
-      <td>San Francisco</td>
-      <td>CA</td>
-      <td>True</td>
-      <td>attack</td>
-      <td>Not fleeing</td>
-      <td>False</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>9</td>
-      <td>Michael Rodriguez</td>
-      <td>2015-01-04</td>
-      <td>shot</td>
-      <td>nail gun</td>
-      <td>39.0</td>
-      <td>M</td>
-      <td>H</td>
-      <td>Evans</td>
-      <td>CO</td>
-      <td>False</td>
-      <td>attack</td>
-      <td>Not fleeing</td>
-      <td>False</td>
-    </tr>
-  </tbody>
-</table>
-</div>
 
 
 
