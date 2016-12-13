@@ -1,9 +1,7 @@
 ---
 layout: post
-title: A Quick Look At Police Shooting Data
+title: Exploring A Commonly Misunderstood Statistic In Police Shooting Data
 ---
-
-### A Quick Look At Police Shooting Data
 
 Black Lives Matter has sparked a necessarry debate across the United States, raising questions that deserve consideration and thoughtful discussion.
 
