@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Exploring A Commonly Misunderstood Statistic In Police Shooting Data
+title: Exploring A Misunderstood Statistic In Police Shooting Data
 ---
 
-Black Lives Matter has sparked a necessarry debate across the United States, raising questions that deserve consideration and thoughtful discussion.
+The Black Lives Matter movement has sparked a necessarry debate across the United States, raising questions that deserve consideration and thoughtful discussion.
 
-In any discussion it is important for all sides to be heard, considered and addressed in a reasonable manner. Facts and arguments should be evaluated fairly on their merrits and discarded when deemed incorrect, irellevant or destructive in the context of the ongoing discussion. Things don't always work that way, especially in the echo chamber of social media.In this short analysis, I hope to bring attention to a particular course of argument that detracts from the conversation and illustrate why it should be removed from the discussion. 
+In any discussion it is important for all sides to be heard, considered and addressed in a reasonable manner. Facts and arguments should be evaluated fairly on their merrits and discarded when deemed incorrect, irellevant or destructive in the context of the ongoing discussion. Things don't always work that way, especially in the echo chamber of social media.In this short analysis, I hope to bring attention to a particular course of argument that detracts from the conversation and illustrate why it fundamentally incorrect. 
 
 The fact that more white people are shot by police than black people in the US is not statistically significant. Further, the arguments and implications that are made by parroting this statistic are at best hurtfully ignorant and at worst derisive.
 
-For those less familiar with this statistic and the kinds of arguments made with it, below are some links to examples of this course of argument.
+For those less familiar with this statistic and the kinds of arguments made with it, below are some links to examples of this course of argument.  
 (**Disclaimer:** These sources can be fairly harsh. For just a quick overview of the relevant of where this statistic comes from, skip to the third link)  
 [Ben Shapiro on BLM](https://www.facebook.com/subjectpolitics/videos/1740982886119264/)  
 [American Thinker Article](http://www.americanthinker.com/blog/2016/07/study_cops_kill_more_whites_than_blacks_but_minority_deaths_generate_more_coverage.html)  
