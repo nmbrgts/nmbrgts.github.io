@@ -75,11 +75,14 @@ census_df = pd.read_csv('./census-data/demographic-populations.csv')
 
 population_df = pd.DataFrame({
     "population" : [float(census_df['UNITED STATES'][1]) 
-                     * float(census_df['UNITED STATES'][15]) / 100,
+                     * float(census_df['UNITED STATES'][15]) 
+                     / 100,
                     float(census_df['UNITED STATES'][1]) 
-                     * float(census_df['UNITED STATES'][17]) / 100, 
+                     * float(census_df['UNITED STATES'][17]) 
+                     / 100, 
                     float(census_df['UNITED STATES'][1]) 
-                     * float(census_df['UNITED STATES'][27]) / 100]},
+                     * float(census_df['UNITED STATES'][27]) 
+                     / 100]},
      index = ["W", "B", "H"])  
 
 population_df.plot(kind = "bar")
